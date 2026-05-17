@@ -60,12 +60,23 @@ Controller → Service → Repository → Database
 
 # 📸 Screenshots
 
-Add screenshots here:
+## 🔐 Login Page
+![Login Page](screenshots/login.png)
 
-- 🔐 Login Page
-- 📋 Expense Records
-- ➕ Add Transaction Page
-- 📈 Dashboard Analytics
+---
+
+## 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 📋 Expense Records
+![Expense Records](screenshots/expense_record.png)
+
+---
+
+## ➕ Add Transaction
+![Add Transaction](screenshots/add_transaction.png)
 
 ---
 
