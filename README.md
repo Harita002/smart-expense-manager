@@ -61,22 +61,22 @@ Controller → Service → Repository → Database
 # 📸 Screenshots
 
 ## 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/login.png)
 
 ---
 
 ## 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ## 📋 Expense Records
-![Expense Records](screenshots/expense_record.png)
+![Expense Records](Screenshots/expense_record.png)
 
 ---
 
 ## ➕ Add Transaction
-![Add Transaction](screenshots/add_transaction.png)
+![Add Transaction](Screenshots/add_transaction.png)
 
 ---
 
